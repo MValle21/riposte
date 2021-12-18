@@ -107,7 +107,7 @@ ext {
     mockitoVersion = '3.3.3'
     restAssuredVersion = '4.3.0'
     slf4jTestVersion = '1.2.0'
-    logbackVersion = '1.2.3'
+    logbackVersion = '1.2.8'
 
     spockVersion = '2.0-M2-groovy-3.0'
     cgLibVersion = '3.3.0'
