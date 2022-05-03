@@ -94,7 +94,7 @@ ext {
     guiceVersion = '4.2.3'
     codahaleMetricsVersion = '4.1.6'
     signalFxCodahaleVersion = '1.0.3'
-    eurekaClientVersion = '1.9.21'
+    eurekaClientVersion = '1.10.17'
     archaiusVersion = '0.7.7'
     apacheCommonsConfigurationVersion = '1.8'
     typesafeConfigVersion = '1.4.0'
