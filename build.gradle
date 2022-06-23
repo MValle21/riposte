@@ -91,7 +91,7 @@ ext {
     ningAsyncHttpClientVersion = '1.9.40'
     asyncHttpClientVersion = '2.12.1'
     servletApiVersion = '3.1.0'
-    guiceVersion = '4.2.3'
+    guiceVersion = '5.0.0'
     codahaleMetricsVersion = '4.1.6'
     signalFxCodahaleVersion = '1.0.3'
     eurekaClientVersion = '1.9.21'
