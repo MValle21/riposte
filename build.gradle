@@ -92,7 +92,7 @@ ext {
     asyncHttpClientVersion = '2.12.1'
     servletApiVersion = '3.1.0'
     guiceVersion = '4.2.3'
-    codahaleMetricsVersion = '4.1.6'
+    codahaleMetricsVersion = '4.2.20'
     signalFxCodahaleVersion = '1.0.3'
     eurekaClientVersion = '1.9.21'
     archaiusVersion = '0.7.7'
