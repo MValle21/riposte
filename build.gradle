@@ -89,7 +89,7 @@ ext {
 
     // Misc module dependencies
     ningAsyncHttpClientVersion = '1.9.40'
-    asyncHttpClientVersion = '2.12.1'
+    asyncHttpClientVersion = '2.12.4'
     servletApiVersion = '3.1.0'
     guiceVersion = '4.2.3'
     codahaleMetricsVersion = '4.1.6'
